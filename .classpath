@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/jai_core.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/JSErrorCollector-0.5.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/monte-cc.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/MonteScreenRecorder.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/pdfbox-1.8.8.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/pdfbox-app-1.7.1.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/pdfngreport-2.0.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/poi-examples-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/poi-excelant-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/SeleniumObjectBank_v1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/sqljdbc.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/xmlbeans.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/Atureports/ATUReporter_Selenium_testNG_5.5_BETA.jar"/>
+	<classpathentry kind="lib" path="F:/Eclipse/lib/Atureports/ATUTestRecorder_2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
