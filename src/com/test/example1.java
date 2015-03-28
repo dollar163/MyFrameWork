@@ -45,7 +45,7 @@ public class example1 extends Hasexample1Objects {
 		coordinate.inViewPort();
 		System.out.println(signIN().getCssValue("color"));
 		signIN();
-
+		system.out.print("hello");
 	}
 
 }
