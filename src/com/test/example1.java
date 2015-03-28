@@ -10,7 +10,6 @@ import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.firefox.internal.ProfilesIni;
 import org.openqa.selenium.interactions.internal.Coordinates;
 import org.openqa.selenium.internal.Locatable;
-import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -21,7 +20,6 @@ public class example1 extends Hasexample1Objects {
 
 	@BeforeTest
 	public void login() {
-		setWebDriverObject(driver);
 
 		ProfilesIni profile = new ProfilesIni();
 		FirefoxProfile myprofile = profile.getProfile("default");
@@ -33,7 +31,6 @@ public class example1 extends Hasexample1Objects {
 	@Test
 	public void es() throws Exception, ObjectFinderException {
 		setWebDriverObject(driver);
-		Thread.sleep(5000);
 		username().sendKeys("hari");
 		password().sendKeys("charan");
 
